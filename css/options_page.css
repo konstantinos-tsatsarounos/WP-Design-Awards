@@ -1,0 +1,212 @@
+input,textarea,select { width: 200px;}
+input[type=checkbox] {width: auto;}
+h3 { font-size: 1.6em;}
+h3:after {
+    content: " ";
+    display: block;
+    width: 80%;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #aaa;
+    margin-top: 10px;;
+    margin-bottom: 20px;
+}
+
+.btn
+{
+    display: inline-block;
+    width: auto;
+    font-family: Menlo, sans-serif;
+    cursor: pointer;
+    letter-spacing: normal;
+    box-sizing: border-box;
+    text-align: center;
+
+    border: none;
+    box-shadow: 0 0 6px #666;
+    /*-webkit-appearance: button;*/
+
+    border-radius: 3px;
+}
+.btn:hover,
+.btn:active
+{
+    box-shadow: 0 0 6px #888, inset 3px 3px 5px #a30000;
+}
+.btn-large
+{
+    font-size: 25px;
+    padding: 10px 15px;
+    height: 40px;
+}
+.red-gradient
+{
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 23px;
+    height: 24px;
+    margin: 0 0 0 40%;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #808080;
+    -webkit-border-radius: 3px;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+
+    background: #f2825b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f2825b 0%, #e55b2b 50%, #f07146 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2825b), color-stop(50%,#e55b2b), color-stop(100%,#f07146)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #f2825b 0%,#e55b2b 50%,#f07146 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #f2825b 0%,#e55b2b 50%,#f07146 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #f2825b 0%,#e55b2b 50%,#f07146 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #f2825b 0%,#e55b2b 50%,#f07146 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2825b', endColorstr='#f07146',GradientType=0 ); /* IE6-9 */
+
+}
+.red-gradient:hover
+{
+    background: #db6c53; /* Old browsers */
+    background: -moz-linear-gradient(top,  #db6c53 0%, #c94c26 50%, #db6c53 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#db6c53), color-stop(50%,#c94c26), color-stop(100%,#db6c53)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #db6c53 0%,#c94c26 50%,#db6c53 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #db6c53 0%,#c94c26 50%,#db6c53 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #db6c53 0%,#c94c26 50%,#db6c53 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #db6c53 0%,#c94c26 50%,#db6c53 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db6c53', endColorstr='#db6c53',GradientType=0 ); /* IE6-9 */
+
+}
+.btn-medium
+{
+    font-size: 15px;
+    padding: 5px 8px;
+    height: 28px;
+}
+
+.btn-action
+{
+    color: #fff;
+    background: #4fb2ef;
+    box-shadow: 0 0 3px #aaa;
+    margin-bottom: 7px;
+}
+.btn-action:hover,
+.btn-action:active
+{
+    box-shadow: 0 0 3px #aaa, inset 3px 3px 5px #5885ad;
+}
+
+.btn-danger
+{
+    color: #fff;
+    background-color: #bd362f;
+}
+
+.centered
+{
+    margin: 0 auto;
+}
+
+.reset-box
+{
+    height: 150px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.reset-box div
+{
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+    background-color: #ffd6d6;
+
+    border-radius: 10% 20%;
+    border: 2px dashed #aaa;
+}
+.reset-box span:before { content: " "; display: block; height: 15px;}
+.reset-box p
+{
+    height: 40px;
+}
+
+
+.admin_awards_rating_image
+{
+    display: inline;
+    cursor: pointer;
+}
+
+.admin_awards_rating_image .image,
+.admin_awards_rating_image input
+{
+    display: block;
+    float: left;
+    margin: 5px;
+
+}
+.admin_awards_rating_image input
+{
+    padding: 10px 5px;
+}
+.admin_awards_rating_image .image
+{
+    height: 20px;
+    width: 23px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+    display: block;
+    height: 30px;
+}
+
+.default-rating-images
+{
+    display: inline-block;
+    float: left;
+}
+.upload-button
+{
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    background: #eee;
+    height: 15px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #aaa;
+}
+
+#upload-custom-image-div
+{
+
+}
+
+#upload-custom-image-div input
+{
+    display: inline-block;
+    width: 350px;
+    padding: 10px;
+    height: 37px;
+    border-radius: 0;
+    position: relative;
+    top: 1px;
+    border: 1px solid #aaa;
+}
+
+.icon
+{
+    float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+    background: transparent url('awards_icon.png');
+}
+
