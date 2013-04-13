@@ -49,7 +49,7 @@ Just go to Design awards, click to the Participants taxonomy, and create few cat
 Before exiting the settings page, for safety, check if your adjustments saved well, if  no, correct them and click again save! Is very important to have correct settings!
 
 4. Setting up pages:
- Of course you can use the shortcodes in posts, your convenience is the very reason for the creation of shortcodes. However is much more convenient to use this shortcodes in pages for easy access!
+ Of course you can use the shortcodes in posts, your convenience is the very reason for the creation of shortcodes. However is much more convenient to use these shortcodes in pages for easy access!
 
  CSS GALLERY SHORTCODE
 For displaying the gallery of a category, you must add a new page/post with the proper shorcode. Add a new page or post and type of copy/page (personally, i have saved the shortcodes as snippets. You don’t need to remember them!):
