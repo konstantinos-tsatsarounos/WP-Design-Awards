@@ -39,9 +39,9 @@ _[nominee_form]_
  _You must create some categories for the wp design awards, custom post type!The most often is: gallery (for general category), nominees and winners for subcategories in gallery! But after all is your choice!
 Just go to Design awards, click to the Participants taxonomy, and create few categories!_
 
- Gallery
-  => Nominees
-  => Winners
+ - Gallery
+	- Nominees
+	- Winners
 
  __You can choose the default categoy in design awards settings page__
 
