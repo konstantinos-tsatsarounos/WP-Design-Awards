@@ -67,7 +67,7 @@ For displaying the gallery of a category, you must add a new page/post with the 
  no_pagination, accepts values true or false and if true it disables the pagination! The default is false.
 
  ####NOMINEE FORM SHORTCODE
-This is a simple one, you just add a page of post and use the shortcode [nominee_form] and save! So simple!
+This is a simple one, you just add a page or post, use the shortcode [nominee_form] and save! So simple!
 
 
 ###WARNING:
