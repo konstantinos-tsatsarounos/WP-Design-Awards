@@ -16,17 +16,17 @@ _[nominee_form]_
 
 ###Features:
 
-*Adds a sites gallery shortcode with the capability to rate the displayed sites!
-*Adds a submission form for visitors and users to submit their own creations
-*Adds a custom post type for the sites
-*The custom post type has its own template, in which users can rate also!
-*Adds a custom taxonomy
-*Generates an easy to understand settings page.
-*Provides control of the dimensions of accepted featured image
-*Provides control of the type of accepted featured image
-*Calculates the thumbnail based on a percentage of featured image provided by the admin!
-*Provides the choice of default category, if there is one!
-*Provides an extra category tag for the users to choose and display to the post page!
+* Adds a sites gallery shortcode with the capability to rate the displayed sites!
+* Adds a submission form for visitors and users to submit their own creations
+* Adds a custom post type for the sites
+* The custom post type has its own template, in which users can rate also!
+* Adds a custom taxonomy
+* Generates an easy to understand settings page.
+* Provides control of the dimensions of accepted featured image
+* Provides control of the type of accepted featured image
+* Calculates the thumbnail based on a percentage of featured image provided by the admin!
+* Provides the choice of default category, if there is one!
+* Provides an extra category tag for the users to choose and display to the post page!
 
 
 
