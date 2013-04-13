@@ -51,7 +51,7 @@ Before exiting the settings page, for safety, check if your adjustments saved we
 4. Setting up pages:
  Of course you can use the shortcodes in posts, your convenience is the very reason for the creation of shortcodes. However is much more convenient to use these shortcodes in pages for easy access!
 
- CSS GALLERY SHORTCODE
+ ####CSS GALLERY SHORTCODE
 For displaying the gallery of a category, you must add a new page/post with the proper shorcode. Add a new page or post and type of copy/page (personally, i have saved the shortcodes as snippets. You don’t need to remember them!):
 
  [css_gallery category_slug=your_category_of_choice_slug]
